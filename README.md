@@ -23,6 +23,14 @@ I’m passionate about **building clean, functional, and responsive web applicat
 ---
 
 ## 📂 Featured Projects
+### 🛒 [Stock Portfolio Manager](https://asos-zk.netlify.app/)
+React, Node.js, Express, TailwindCSS
+- Add, edit, and delete stocks with name, price, and quantity
+- Dynamic calculation of per-stock value and total portfolio value
+- Responsive UI with React Router & TailwindCSS
+- RESTful backend API built with Node.js/Express
+- [GitHub Repo]([https://github.com/zinniazk/](https://github.com/zinniazk/OS_Project))
+
 
 ### 🛒 [E-commerce Clothing Store](https://asos-zk.netlify.app/)
 React.js + Redux + Firebase  
